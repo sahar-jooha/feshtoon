@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @feshtoon aka Sahar Naderi
-- 👀 I’m interested in UX research, service design, visual design, and illustration
-- 🌱 I’m currently learning UX writing and Unity
-- 💞️ Check out my portfolio at www.saharnaderi.com
+- 👋 Hi, I’m Sahar
+- 👀 I’m interested in UX strategy, service design, visual design, and illustration
+- 💞️ Check out my portfolio at www.saharchung.com
 - 📫 Reach me at sahartheuxr@gmail.com
 
 <!---
