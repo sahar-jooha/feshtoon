@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sahar
-- 👀 I’m interested in UX strategy, service design, visual design, and illustration
+- 👀 I'm a strategic operations leader with a background in service / UX design
 - 💞️ Check out my portfolio at www.saharchung.com
 - 📫 Reach me at sahartheuxr@gmail.com
 
